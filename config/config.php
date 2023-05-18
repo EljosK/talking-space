@@ -1,8 +1,8 @@
 <?php
-define("DB_HOST", "mysql");
-define("DB_USER", "v.je");
-define("DB_PASS", "v.je");
-define("DB_NAME", "talkingspace");
+define("DB_HOST", "host");
+define("DB_USER", "user");
+define("DB_PASS", "password");
+define("DB_NAME", "name");
 
 
 define("SITE_TITLE", "Welcome to TalkingSpace");
